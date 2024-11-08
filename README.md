@@ -1,4 +1,4 @@
-## Hello, I'm Braydon 👋
+# Hello, I'm Braydon 👋
 
 ### 📊 GitHub Stats
 
@@ -6,11 +6,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bray2sick&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ### 🏆 Achievements / Certifications
 - Certificate III in Information Technology
 - Certificate IV in Information Technology (Networking)
+
+
 
 
 
