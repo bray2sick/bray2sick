@@ -2,9 +2,6 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bray2sick)](https://git.io/streak-stats)
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bray2sick&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bray2sick&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
