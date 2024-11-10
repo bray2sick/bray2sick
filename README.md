@@ -10,24 +10,23 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
   <!-- CSS -->
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <!-- Python -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <!-- JavaScript -->
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+  <!-- Python -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <!-- Markdown -->
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white">
-  
-</p>
-<p align="center">
-  <!-- Django -->
-  <img alt="Django" src="https://img.shields.io/badge/Django-103e2e.svg?style=flat-square&logo=django&logoColor=white">
 </p>
 
 <p align="center">
+  <!-- Django -->
+  <img alt="Django" src="https://img.shields.io/badge/Django-103e2e.svg?style=flat-square&logo=django&logoColor=white">
   <!-- Sass -->
   <img alt="Sass" src="https://img.shields.io/badge/Sass-ce679a?style=flat-square&logo=sass&logoColor=white">
   <!-- Bootstrap -->
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-712cf9?style=flat-square&logo=bootstrap&logoColor=white">
+  <!-- Tailwind CSS -->
+  <img alt="Tailwind CSS" src="https://shields.io/badge/Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white">
 </p>
 
 <p align="center">
@@ -40,9 +39,18 @@
 </p>
 
 <p align="center">
+  <!-- npm -->
+  <img alt="npm" src="https://shields.io/badge/npm-white?logo=npm&logoColor=c12127&style=flat-square">
+  <!-- Git -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
   <!-- GitHub Copilot -->
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white">
+  <!-- WordPress-->
+  <img alt="WordPress" src="https://shields.io/badge/WordPress-00749c?style=flat-square&logo=WordPress&logoColor=white">
+  <!-- Fortinet -->
+  <img alt="Fortinet" src="https://shields.io/badge/Fortinet-black?logo=fortinet&logoColor=da291c&style=flat-square">
+  <!-- Netlify -->
+  <img alt="Netlify" src="https://shields.io/badge/Netlify-black?logo=netlify&logoColor=05bdba&style=flat-square">
 </p>
 
 <!--
