@@ -54,6 +54,8 @@
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white">
   <!-- GitHub Copilot -->
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white">
+  <!-- GitHub Pages -->
+  <img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white">
   <!-- WordPress-->
   <img alt="WordPress" src="https://shields.io/badge/WordPress-00749c?style=flat-square&logo=WordPress&logoColor=white">
   <!-- Fortinet -->
