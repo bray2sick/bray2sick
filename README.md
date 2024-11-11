@@ -1,11 +1,13 @@
-<p align="center">
+#### 🔗 Connect
+<p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/braydon-pettit/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <!-- GitHub -->
   <a href="https://github.com/bray2sick" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
 
-<p align="center">
+#### 🛠️ Languages
+<p align="left">
   <!-- HTML -->
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
   <!-- CSS -->
@@ -18,7 +20,8 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white">
 </p>
 
-<p align="center">
+#### ⚙️ Frameworks
+<p align="left">
   <!-- Django -->
   <img alt="Django" src="https://img.shields.io/badge/Django-103e2e.svg?style=flat-square&logo=django&logoColor=white">
   <!-- Sass -->
@@ -29,7 +32,8 @@
   <img alt="Tailwind CSS" src="https://shields.io/badge/Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white">
 </p>
 
-<p align="center">
+#### 🖥️ Operating Systems
+<p align="left">
   <!-- Ubuntu -->
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
   <!-- Kali Linux -->
@@ -38,7 +42,8 @@
   <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=F0F0F0">
 </p>
 
-<p align="center">
+#### 🔧 Technologies
+<p align="left">
   <!-- npm -->
   <img alt="npm" src="https://shields.io/badge/npm-white?logo=npm&logoColor=c12127&style=flat-square">
   <!-- Git -->
