@@ -35,6 +35,7 @@
 
 #### 🖥️ Operating Systems
 <p align="left">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <!-- Ubuntu -->
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
   <!-- Kali Linux -->
@@ -49,6 +50,8 @@
   <img alt="npm" src="https://shields.io/badge/npm-white?logo=npm&logoColor=c12127&style=flat-square">
   <!-- Git -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+  <!-- Azure -->
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white">
   <!-- GitHub Copilot -->
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white">
   <!-- WordPress-->
