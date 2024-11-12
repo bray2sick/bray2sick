@@ -17,6 +17,8 @@
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
   <!-- Python -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <!-- PowerShell -->
+  <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-0078D4?style=flat-square&logo=powershell&logoColor=white">
   <!-- Markdown -->
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white">
 </p>
