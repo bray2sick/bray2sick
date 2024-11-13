@@ -69,6 +69,9 @@
   <img alt="Netlify" src="https://shields.io/badge/Netlify-black?logo=netlify&logoColor=05bdba&style=flat-square">
 </p>
 
+![Braydon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bray2sick&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bray2sick&theme=github_dark)
 <!--
 **bray2sick/bray2sick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
