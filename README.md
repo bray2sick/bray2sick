@@ -1,4 +1,5 @@
 ## Braydon Pettit 👋
+
 #### 🔗 Connect
 <p align="left">
   <!-- LinkedIn -->
@@ -33,6 +34,8 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-712cf9?style=flat-square&logo=bootstrap&logoColor=white">
   <!-- Tailwind CSS -->
   <img alt="Tailwind CSS" src="https://shields.io/badge/Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white">
+  <!-- Hugo -->
+  <img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=fff"
 </p>
 
 #### 🖥️ Operating Systems
