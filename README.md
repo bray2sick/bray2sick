@@ -35,7 +35,7 @@
   <!-- Tailwind CSS -->
   <img alt="Tailwind CSS" src="https://shields.io/badge/Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white">
   <!-- Hugo -->
-  <img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=fff"
+  <img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=fff">
 </p>
 
 #### 🖥️ Operating Systems
@@ -54,7 +54,9 @@
   <!-- npm -->
   <img alt="npm" src="https://shields.io/badge/npm-white?logo=npm&logoColor=c12127&style=flat-square">
   <!-- Git -->
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white">
+  <!-- Laragon -->
+  <img alt="Laragon" src="https://shields.io/badge/Laragon-white?logo=Laragon&logoColor=3ab1ff&style=flat-square">
   <!-- Azure -->
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white">
   <!-- GitHub Copilot -->
