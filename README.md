@@ -51,14 +51,20 @@
 
 #### 🔧 Technologies
 <p align="left">
+  <!-- VSCodeium -->
+  <img alt="VSCodeium" src="https://img.shields.io/badge/VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=fff">
   <!-- npm -->
   <img alt="npm" src="https://shields.io/badge/npm-white?logo=npm&logoColor=c12127&style=flat-square">
   <!-- Git -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white">
   <!-- Laragon -->
   <img alt="Laragon" src="https://shields.io/badge/Laragon-white?logo=Laragon&logoColor=3ab1ff&style=flat-square">
+  <!--v0-->
+  <img alt="v0" src="https://img.shields.io/badge/v0-000?style=flat-square&logo=v0&logoColor=fff">
   <!-- Azure -->
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white">
+  <img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=msazure&logoColor=white">
+</p>
+<p align="left">
   <!-- GitHub Copilot -->
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white">
   <!-- GitHub Pages -->
