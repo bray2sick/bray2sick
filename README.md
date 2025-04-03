@@ -1,5 +1,7 @@
 ## Braydon 👋
 
+![](https://komarev.com/ghpvc/?username=bray2sick&style=flat-square&color=blue)
+
 ![Braydon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bray2sick&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bray2sick&theme=github_dark)
