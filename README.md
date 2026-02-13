@@ -2,9 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=bray2sick&style=flat-square&color=blue)
 
-![Braydon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bray2sick&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bray2sick&theme=github_dark)
 <!--
 **bray2sick/bray2sick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
