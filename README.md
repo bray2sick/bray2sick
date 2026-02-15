@@ -1,4 +1,4 @@
-## Braydon 👋
+## Braydon Pettit 👋
 
 ![](https://komarev.com/ghpvc/?username=bray2sick&style=flat-square&color=blue)
 
